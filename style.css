@@ -142,7 +142,7 @@ body {
 h1{
 	position: fixed;
 	text-align: center;
-	bottom: 57%;
+	bottom: 60%;
 	color: #fff;
 	text-decoration: none;
 	font-size: 45px;
@@ -151,7 +151,7 @@ h1{
 h2{
 	position: fixed;
 	text-align: center;
-	bottom: 47%;
+	bottom: 45%;
 	color: #fff;
 	text-decoration: none;
 	font-size: 25px;
@@ -174,7 +174,7 @@ span{
 	text-align: center;
 	margin-left: 10px;
 	margin-right: 10px;
-	bottom: 41%;
+	bottom: 33%;
 	color: #FFFF00;
 	text-decoration: none;
 	font-size: 20px;
